@@ -59,7 +59,7 @@ namespace Atividade
                 Console.WriteLine("IE ............: " + pj.ie);
                 Console.WriteLine("Valor de Compra: " +
                 pj.valor.ToString("C"));
-                Console.WriteLine("Imposto .......: " +
+                Console.WriteLine("Imposto ........: " +
                 pj.valor_imposto.ToString("C"));
                 Console.WriteLine("Total a Pagar : " +
                 pj.total.ToString("C"));
